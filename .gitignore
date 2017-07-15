@@ -1,9 +1,0 @@
-*.log*
-*.pyc
-.idea
-.env
-.DS_Store
-venv
-staticfiles
-node_modules
-core/migrations
